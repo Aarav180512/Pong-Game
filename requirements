@@ -1,0 +1,5 @@
+To make a Pong Game you will need the:
+1. pygame module
+
+To install it go to the command prompt or terminal and write:
+pip install pygame
